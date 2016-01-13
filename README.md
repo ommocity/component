@@ -2,20 +2,15 @@
 
 ##工程启动步骤：
 在确保本机已安装nodejs和npm的情况下，在根目录打开命令行，执行以下命令：
-> 1.  安装Gulp：`npm install gulp -g`
-> 2. 安装相关插件：`npm install`
-> 3. 启动服务：`gulp`
+1. 安装Gulp：`npm install gulp -g`  
+2. 安装相关插件：`npm install`  
+3. 启动服务：`gulp`  
 
 ##描述
 组件库代码存放目录：根目录下的js、css、fonts目录。  
 文档编辑采用markdown语法编写，最终转换为HTML文件。  
 文档编辑工具：markdownPad。  
 
-##技术选型
-> * jQuery：基础库
-> * handlebars：模板引擎
-> * requirejs：AMD规范模块加载器
-> * gulp：自动化构建工具
 
 ##目录结构
   ```
