@@ -12,6 +12,7 @@
 > 1.  安装Gulp：`npm install gulp -g`
 > 2. 安装相关插件：`npm install`
 > 3. 启动服务：`gulp`
+
 ##描述
 组件库代码存放目录：根目录下的js、css、fonts目录。
 
