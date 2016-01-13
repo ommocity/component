@@ -1,6 +1,6 @@
 # component
 
-##工程启动步骤：
+##工程启动步骤：  
 在确保本机已安装nodejs和npm的情况下，在根目录打开命令行，执行以下命令：
 1. 安装Gulp：`npm install gulp -g`  
 2. 安装相关插件：`npm install`  
