@@ -7,9 +7,9 @@
 > 3. 启动服务：`gulp`
 
 ##描述
-组件库代码存放目录：根目录下的js、css、fonts目录。
-文档编辑采用markdown语法编写，最终转换为HTML文件。
-文档编辑工具：markdownPad。
+组件库代码存放目录：根目录下的js、css、fonts目录。  
+文档编辑采用markdown语法编写，最终转换为HTML文件。  
+文档编辑工具：markdownPad。  
 
 ##技术选型
 > * jQuery：基础库
