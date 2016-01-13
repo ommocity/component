@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    @@include('../../_include/res/_css.tpl', {
+      "title": "常见问题"
+    })
+  </head>
+  <body>
+    @@include('../../_include/res/_header.tpl')
+    <div class="container-fluid">
+      <div class="row">
+        @@include('../../_include/res/_navIssue.tpl',{"curMenu":true})
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+          <h1 class="page-header">内容</h1>
+
+          这里是内容
+        </div>
+      </div>
+    </div>
+    
+    @@include('../../_include/res/_js.tpl')
+  </body>
+</html>

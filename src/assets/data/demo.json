@@ -1,0 +1,52 @@
+{
+    "returnCode": "0",
+    "returnMessage": "",
+    "beans": [
+        {
+            "id":"0001",
+            "name":"iphone",
+            "price":"6000",
+            "type":"6 plus",
+            "sell":"1989",
+            "inventory":"900",
+            "addDate":"2015-12-5 12:24:35"
+        },
+        {
+            "id":"0001",
+            "name":"iphone",
+            "price":"6000",
+            "type":"6 plus",
+            "sell":"1989",
+            "inventory":"900",
+            "addDate":"2015-12-5 12:24:35"
+        },
+        {
+            "id":"0001",
+            "name":"iphone",
+            "price":"6000",
+            "type":"6 plus",
+            "sell":"1989",
+            "inventory":"900",
+            "addDate":"2015-12-5 12:24:35"
+        },
+        {
+            "id":"0001",
+            "name":"iphone",
+            "price":"6000",
+            "type":"6 plus",
+            "sell":"1989",
+            "inventory":"900",
+            "addDate":"2015-12-5 12:24:35"
+        },
+        {
+            "id":"0001",
+            "name":"iphone",
+            "price":"6000",
+            "type":"6 plus",
+            "sell":"1989",
+            "inventory":"900",
+            "addDate":"2015-12-5 12:24:35"
+        }
+    ],
+    "object": null
+}
