@@ -22,7 +22,7 @@ gulp.task('copy',['clean'],function(){
 //开启服务
 gulp.task('connect', function() {
     connect.server({
-        port: 8090,
+        port: 8888,
         livereload: false,
         middleware: function(connect, options) {
             return [
